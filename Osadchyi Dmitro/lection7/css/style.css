@@ -1,0 +1,94 @@
+span {
+    color: red;
+}
+
+
+
+.container {
+    padding: 10%;
+    display: flex;
+    border: 100px solid: red;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+body {
+    background-color: magenta;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+h2 {
+    background-color: chartreuse;
+}
+
+.p1 {
+    color: oldlace;
+}
+
+.p2 {
+    color: darkorange;
+}
+
+.p3 {
+    color: darkblue;
+}
+
+#color {
+    color: mediumaquamarine;
+}
+
+#color li {
+    color: #34e567;
+}
+
+.pseudo div:hover {
+    color: tomato;
+    flex-direction: column;
+}
+
+.square {
+    width: 200px;
+    height: 200px;
+    background-color: #999993;
+    position: relative;
+}
+
+.square::after {
+    content: "";
+    display: block;
+    width: 150px;
+    height: 150px;
+    border: 2px solid red;
+    border-radius: 46%;
+    position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.mycompany {
+    height: 600px;
+    background-color: black;
+}
+
+.logo {
+    
+}
