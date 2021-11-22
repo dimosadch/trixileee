@@ -1,4 +1,4 @@
-h1 span {
+h1 span:hover {
     border-bottom: 5px solid rgb(255, 0, 0);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 900;
