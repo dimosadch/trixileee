@@ -12,21 +12,6 @@ body {
     padding: 0;
     list-style: none;
   }
-
-  @font-face {
-    font-family: font123;
-    src: url("./IntroDemo-BlackCAPS.otf");
-}
-
-@font-face {
-  font-family: font;
-  src: url("./BalsamiqSans-Bold.ttf");
-}
-
-
-li:hover {
-  font-family: 'font';
-}
   
   .nav-item {
     position: relative;
@@ -79,7 +64,4 @@ li:hover {
   
   .subnav-link:hover {
     background-color: #444;
-  }@font-face {
-    font-family: font123;
-    src: url("./IntroDemo-BlackCAPS.otf");
-}
+  }
