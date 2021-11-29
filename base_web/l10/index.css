@@ -1,17 +1,17 @@
 .css3-ui {
     outline-offset: 1px;
-    outline-style: double;
-    outline-width: 5px;
+    outline-style: outset;
+    outline-width: 2px;
     outline-color: #0f0;
-    resize: both;
-    cursor: wait;
-    caret-color: blue;
+    resize: vertical;
+    cursor: pointer;
+    caret-color: #f00;
 }
 
 .css3-gradient {
     width: 300px;
     height: 200px;
-    background: linear-gradient(180deg, aqua, yellow, lime);
+    background: linear-gradient(180deg, #00f, #ff0);
     /* background: linear-gradient(to right, #0f0 0%, #0f0 32%, #fff 33%, #fff 65%, #f00 66%, #f00 100%); */
 
     /* background: radial-gradient(at top, aqua, #000); */
@@ -110,4 +110,3 @@
 .css3-animation span:nth-child(4) {
   animation: span-4 2s ease-in-out infinite;
 }
-

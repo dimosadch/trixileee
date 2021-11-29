@@ -1,9 +1,0 @@
-@font-face {
-    font-family: font123;
-    src: url("./IntroDemo-BlackCAPS.otf");
-}
-
-h1 {
-    font-family: font123;
-     font-size: 100px;
-}
